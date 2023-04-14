@@ -1,0 +1,23 @@
+.body{
+    position: absolute;
+}
+
+.cardsContainer{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    flex-wrap: wrap;
+    top: 9vh;
+    max-width: 70vw;
+    z-index: 0;
+}
+
+.rick{
+    position: relative;
+    top: 21vh;
+    left: 72vw;
+    height: 80vh;
+    position: fixed;
+}

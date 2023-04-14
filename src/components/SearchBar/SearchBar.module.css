@@ -1,0 +1,22 @@
+.searchInput{
+    border: 0px;
+    border-radius: 15px 0px 0px 15px;
+    height: 25px;
+    text-align: center;
+}
+
+.seaarchButton{
+    border: 0px;
+    border-radius: 0px 15px 15px 0px;
+    height: 26px;
+    transition-duration: 0.5s;
+    box-shadow: 0px 0px 30px -5px white; 
+}
+
+.seaarchButton:hover{
+    scale: 1.1;
+    background-color: #29780d;
+    color:white;
+    cursor: pointer;
+    box-shadow: 0px 0px 30px -5px white;
+}
